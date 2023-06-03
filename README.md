@@ -1,2 +1,2 @@
 #小白随便搞
-阿里云盘
+感谢 ImYrS/aliyun-auto-signin
